@@ -1,10 +1,10 @@
 
-Diagram for the overall application architechture
+* Diagram for the overall application architechture
 
 ![](test.png)
 
 
-Steps to run the APP
+* Steps to run the APP
 
     1. Run the eureka server > this will be running on port 8761 (http://localhost:8761)
     
