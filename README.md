@@ -14,7 +14,7 @@
 
 ![](eureka.PNG)
 
-   -Perform any CRUD operation which has been implemented in profile-service.
+   * Perform any CRUD operation which has been implemented in profile-service.
 
  
 ![](insomnia.PNG)
