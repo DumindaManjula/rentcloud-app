@@ -23,4 +23,4 @@ Note : I have expose my git configuration for this to public so you also can use
 
 You will have to create your own local database in order to perform this crud operations.
 
-I have provided the PostgreSQL connection configuration as well if want to use your DB as PostgreSQL .So you can uncomment it and go ahead with that configuration.
+I have provided the PostgreSQL connection configuration as well if you want to use your DB as PostgreSQL.So you can uncomment DB configurations and go ahead with that.
