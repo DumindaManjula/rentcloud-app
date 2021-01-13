@@ -1,5 +1,5 @@
 
-![](test.PNG)
+![](test.png)
 
 
 Steps to run the APP
