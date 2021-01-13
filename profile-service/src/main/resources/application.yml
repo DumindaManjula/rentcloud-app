@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: profile-service
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+server:
+  port: 8196

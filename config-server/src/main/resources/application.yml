@@ -1,0 +1,16 @@
+
+
+server:
+  port: 8195
+
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/DumindaManjula/profileservice-config
+          search-paths:
+            - 'service-config/*service'
+

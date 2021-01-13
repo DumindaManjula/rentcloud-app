@@ -1,0 +1,14 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8195
+  profiles:
+    active: prod
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+#  instance:
+#    instance-id: ${spring.application.name}-${random.int}
+#    hostname: localhost
